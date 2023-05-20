@@ -20,7 +20,7 @@ const getProfile = async () => {
     displayProfile(profile);
 };
 getProfile();
-
+# shobha commit today in git hub
 // display infomation from github profile
 const displayProfile = (profile) => {
     const userInfo = document.querySelector('.user-info');
