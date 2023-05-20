@@ -23,6 +23,7 @@ getProfile();
 # shobha commit today in git hub
 # rithvik is going to tutuion today
 # naresh was good boy
+# i am going to tank band today
 // display infomation from github profile
 const displayProfile = (profile) => {
     const userInfo = document.querySelector('.user-info');
