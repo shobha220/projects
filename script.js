@@ -21,6 +21,7 @@ const getProfile = async () => {
 };
 getProfile();
 # shobha commit today in git hub
+# rithvik is going to tutuion today
 // display infomation from github profile
 const displayProfile = (profile) => {
     const userInfo = document.querySelector('.user-info');
